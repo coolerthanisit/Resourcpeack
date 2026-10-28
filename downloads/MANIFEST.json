@@ -1,0 +1,32 @@
+{
+  "project": "CataclysmEngine",
+  "minecraft": "1.21.11",
+  "server": "Paper",
+  "java_release": 25,
+  "resource_pack_format": [
+    75,
+    0
+  ],
+  "artifacts": {
+    "CataclysmEngine.jar": {
+      "bytes": 187370,
+      "sha256": "e2228489ab53b971c99bf072f04f624fb77338a3e739adec736810c0ae2f460b",
+      "sha1": "f18da88f89ad034e358b8d0f702d7304007d84ad"
+    },
+    "CataclysmEngine-ResourcePack.zip": {
+      "bytes": 928179,
+      "sha256": "2feab8c307727b1a08a99ef32c02fc8c05814e9d7b7990a8186c07b70754a7c5",
+      "sha1": "19363314dbb1aa8b619ccd74f439fefc80dba3e6"
+    },
+    "CataclysmEngine-Source.zip": {
+      "bytes": 2441136,
+      "sha256": "5a1972b6fe1dcc77fa22e2e7e3a6e500efdc47f55f8e1e4c82f3e684f0baac64",
+      "sha1": "689dbe90f2f5d7185fb1f1c3f09994d3e5eaf462"
+    }
+  },
+  "source_files": 162,
+  "validation_note": "Artifact integrity does not establish client rendering quality or multiplayer performance. See README and test-results documentation.",
+  "compiled_class_versions": [
+    69
+  ]
+}
